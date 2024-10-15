@@ -2,7 +2,7 @@
 This system is designed to monitor drivers in real-time, detect drowsiness based on facial features, and issue alerts to prevent accidents caused by fatigue.
 
 ## Features
--# Drowsiness Detection: Monitors eye aspect ratio (EAR) to detect fatigue.
+### Drowsiness Detection: Monitors eye aspect ratio (EAR) to detect fatigue.
 - Alerts: Provides audio and visual warnings when drowsiness is detected.
 - Face Recognition (Optional): Verifies the driver's identity for security.
 - Reports: Logs events and generates behavior reports.
